@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+var_dump(realpath_cache_size());
+?>
+
+</body>
+</html>
+
+
+
+int(797)
